@@ -32,3 +32,7 @@ The cleaned data is then used to perform various analyses, such as:
 
 ## Note
 The code above is just the data preparation and data cleansing, there is no analysis being done here. The analysis would typically happen after this step and would involve using the data to answer specific questions or test hypotheses.
+
+## Analysis
+To see the analysis, please visit the link below:
+https://drive.google.com/file/d/18Xhse8jhQA-Pc5om4MDbadIiHT7heFy_/view
